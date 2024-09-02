@@ -1,4 +1,4 @@
-export const bio = [
+/*export const bio = [
     "Hi, I'm Quentin Cook.",
     `I'm a cybersecurity specialist with a background in hardware and software troubleshooting and security monitoring, currently completing the Google Cybersecurity Professional certificate.`,
     `Experienced in risk identification, system audits, and secure network configuration with expertise in surveillance systems and access control measures.

@@ -1,51 +1,51 @@
 export const bio = [
-    "Hello there, This is Vinay Somawat.",
-    `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
-    `Eager to apply my technical expertise and in-depth
-    product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
-    "Thanks for taking the time to learn a little about me!",
+    "Hi, I'm Quentin Cook.",
+    `I'm a cybersecurity specialist with a background in hardware and software troubleshooting and security monitoring, currently completing the Google Cybersecurity Professional certificate.`,
+    `Experienced in risk identification, system audits, and secure network configuration with expertise in surveillance systems and access control measures.
+    Seeking a cybersecurity role with opportunities for continuous learning, organizational impact, and collaboration with a dynamic team.`,
+    "Thanks for checking out my portfolio!",
 ];
 
 export const skills = [
     {
         title: "Languages",
-        skillName: "JavaScript, TypeScript",
+        skillName: "Linux, Python, C",
         color: "1",
+        percentage: "50",
+    },
+    {
+        title: "Operating Systems",
+        skillName: "Windows, Linux",
+        color: "6",
         percentage: "80",
     },
     {
-        title: "Frameworks/Libraries",
-        skillName: "Angular, RxJS, NGXS",
-        color: "6",
-        percentage: "70",
-    },
-    {
-        title: "Design",
-        skillName: "HTML, Bootstrap, Tailwind",
+        title: "Troubleshooting",
+        skillName: "Hardware and Software Troubleshooting",
         color: "4",
         percentage: "70",
     },
     {
-        title: "Version Control",
-        skillName: "GitHub, JIRA, Bitbucket",
+        title: "Security",
+        skillName: "Access Control Management",
         color: "7",
         percentage: "70",
     },
     {
         title: "Tools",
-        skillName: "Postman, Chrome DevTools",
+        skillName: "Splunk, Chronicle",
         color: "3",
-        percentage: "80",
+        percentage: "60",
     },
     {
-        title: "Analytics",
-        skillName: "CleverTap, Countly",
+        title: "Practices",
+        skillName: "Threat analysis, Log Analysis, Vulnerability Assessment",
         color: "5",
-        percentage: "50",
+        percentage: "70",
     },
     {
-        title: "IDE",
-        skillName: "VS Code",
+        title: "Software Platforms",
+        skillName: "Google Workspace, Slack, Microsoft Teams, Skype",
         color: "6",
         percentage: "70",
     },
